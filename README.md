@@ -5,3 +5,6 @@ The model can be found in the Drive Link
 https://drive.google.com/drive/folders/1OHjHigDKFfXJ5la2QMd_k5liqNCzmozV?usp=drive_link
 
 ![average chest x rays ](https://github.com/NipunDhiman13/JavaScript_Junkies_HackStreet2.0/assets/113599236/64f88100-dd79-4b5a-91b9-c61d78bcc240)
+
+![x ray pneu](https://github.com/NipunDhiman13/JavaScript_Junkies_HackStreet2.0/assets/113599236/311d8913-e742-4ccf-b89f-5f1ff433c25b)
+
